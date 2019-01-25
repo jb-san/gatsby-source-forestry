@@ -10,3 +10,4 @@ fields:
 - type: include
   name: author
   label: author
+  template: author
