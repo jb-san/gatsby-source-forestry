@@ -7,5 +7,3 @@ fields:
 - type: text
   name: name
   label: name
-pages:
-- ".forestry/_posts/jbsan.md"
